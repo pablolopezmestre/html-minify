@@ -1,3 +1,5 @@
+<?php
+
 /**
  * Minify HTML Output in WordPress
  *
